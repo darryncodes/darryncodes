@@ -4,7 +4,7 @@
 👀 Working hard to change my career<br />
 🔭 I’m currently working my way through [Frontend mentor challenges](https://www.frontendmentor.io/challenges)<br />
 🌱 I’m just starting to learn JS & i'm honing my fresh new HTML / CSS skills<br />
-💬 Ask me about ... Manual brew coffee & SiteCore!<br />
+💬 Ask me about ... manual brew coffee & SiteCore!<br />
 📫 How to reach me ... [@darryncodes](https://darryncodes.co.uk/) (work in progress portfolio).
 
 ## Some of my Github stats
