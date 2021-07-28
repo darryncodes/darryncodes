@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Darryn!
-<div>🎓	I'm self-taught!
-<div>👀 Working hard to change my career!
-<div>🔭 I’m working my way through [Frontend mentor challenges](https://www.frontendmentor.io/solutions)
-<div>🌱 I’m just starting to learn JS & i'm honing my fresh new HTML / CSS skills
-<div>💬 Ask me about ... Manual brew coffee & SiteCore!
-<div>📫 How to reach me ... [@darryncodes work in progress portfolio](https://www.darryncodes.co.uk/)
+<div>🎓	I'm self-taught!</div>
+<div>👀 Working hard to change my career!</div>
+<div>🔭 I’m working my way through [Frontend mentor challenges](https://www.frontendmentor.io/solutions)</div>
+<div>🌱 I’m just starting to learn JS & i'm honing my fresh new HTML / CSS skills</div>
+<div>💬 Ask me about ... Manual brew coffee & SiteCore!</di>
+<div>📫 How to reach me ... [@darryncodes work in progress portfolio](https://www.darryncodes.co.uk/)</div>
 
 ## Some of my Github stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darryncodes&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/darryncodes)
