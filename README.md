@@ -2,7 +2,7 @@
 
 Hi I'm Darryn! A self-taught coder, working hard to change my career!
 
-🌱 &nbsp; I'm enjoying honing my HTML & CSS skills and tackling JS<br>
+🌱 &nbsp; I'm enjoying honing my HTML & CSS skills whilst tackling JS<br>
 🎓&nbsp;&nbsp;  I'm currently working my way through [Frontend mentor challenges](https://www.frontendmentor.io/challenges)<br>
 ☕️ &nbsp; Ask me about brewing the perfect cup of coffee<br>
 📫 &nbsp; Reach me at [@darryncodes](https://darryncodes.co.uk/)
