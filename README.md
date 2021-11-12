@@ -3,9 +3,9 @@
 Hi I'm Darryn! A self-taught coder, working hard to change my career!
 
 🌱 &nbsp; I'm enjoying honing my HTML & CSS skills and tackling JS<br>
-🎓&nbsp;&nbsp;  I'm currently working my way through [Frontend mentor challenges](https://www.frontendmentor.io/challenges).<br>
+🎓&nbsp;&nbsp;  I'm currently working my way through [Frontend mentor challenges](https://www.frontendmentor.io/challenges)<br>
 ☕️ &nbsp; Ask me about brewing the perfect cup of coffee<br>
-📫 &nbsp; Reach me at [@darryncodes](https://darryncodes.co.uk/) my work in progress portfolio.
+📫 &nbsp; Reach me at [@darryncodes](https://darryncodes.co.uk/)
 
 ## Some of my Github stats
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darryncodes&theme=dark&layout=compact)](https://github.com/darryncodes)
