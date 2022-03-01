@@ -1,14 +1,22 @@
 <img src="github-banner.png" alt="Hi i'm Darryn. Self-taught coder & Sitecore CMS professional" />
 
-## Skills & Tools
+## Skills 
 <div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-HTML-7f54b3?logo=html5&logoColor=white&style=flat-square" alt="HTML" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-CSS-7f54b3?logo=css3&logoColor=white&style=flat-square" alt="CSS" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Sass-7f54b3?logo=sass&logoColor=white&style=flat-square" alt="Sass" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-7f54b3?logo=javascript&logoColor=white&style=flat-square" alt="JavaScript" height="30" />
+</div>
+
+## Tools
+
+<div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-Git-7f54b3?logo=git&logoColor=white&style=flat-square" alt="Git" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-7f54b3?logo=github&logoColor=white&style=flat-square" alt="GitHub" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Markdown-7f54b3?logo=markdown&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-7f54b3?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Jira-7f54b3?logo=jira&logoColor=white&style=flat-square" alt="JIRA" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Confluence-7f54b3?logo=confluence&logoColor=white&style=flat-square" alt="Confluence" height="30" />
 </div>
 
 ## 👨‍💻 About me
