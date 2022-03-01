@@ -11,7 +11,6 @@ Hi I'm Darryn! A self-taught coder, working hard to change my career!
 
 ## Some of my Github stats
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darryncodes&theme=dark&layout=compact)](https://github.com/darryncodes)
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darryncodes&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/darryncodes)
 
 ## My skills  
 <div align="left">
