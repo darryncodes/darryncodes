@@ -13,8 +13,8 @@
 <div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-Git-7f54b3?logo=git&logoColor=white&style=flat-square" alt="Git" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-7f54b3?logo=github&logoColor=white&style=flat-square" alt="GitHub" height="30" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-Markdown-7f54b3?logo=markdown&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-7f54b3?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Markdown-7f54b3?logo=markdown&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Jira-7f54b3?logo=jira&logoColor=white&style=flat-square" alt="JIRA" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Confluence-7f54b3?logo=confluence&logoColor=white&style=flat-square" alt="Confluence" height="30" />
 </div>
