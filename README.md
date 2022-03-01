@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="Git" />
+
 # Hello 👋 🧑🏻‍💻 🔥
 
 Hi I'm Darryn! A self-taught coder, working hard to change my career!
