@@ -1,6 +1,6 @@
 <img src="github-banner.png" alt="Hi i'm Darryn. Self-taught coder & Sitecore CMS professional" />
 
-## Skills 
+## Tech 
 <div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-HTML-7f54b3?logo=html5&logoColor=white&style=flat-square" alt="HTML" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-CSS-7f54b3?logo=css3&logoColor=white&style=flat-square" alt="CSS" height="30" />
