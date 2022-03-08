@@ -39,10 +39,21 @@
 
 ## 👷 Latest projects
 
-// &nbsp;&nbsp;Tip calculator app - [Live site](https://darryncodes.github.io/tip-calculator-app/) & [repo](https://github.com/darryncodes/tip-calculator-app)<br>
-// &nbsp;&nbsp;Interactive pricing component - [Live site](https://darryncodes.github.io/interactive-pricing-component/) & [repo](https://github.com/darryncodes/interactive-pricing-component)<br>
-// &nbsp;&nbsp;Huddle landing page - [Live site](https://darryncodes.github.io/huddle-landing-page-with-curved-sections/) & [repo](https://github.com/darryncodes/huddle-landing-page-with-curved-sections)
+// &nbsp;&nbsp;Advice generator app<br>
 
+&nbsp;&nbsp;&nbsp;- A fun challenge working with [Advice slip API](https://api.adviceslip.com/)<br>
+&nbsp;&nbsp;&nbsp;- An extra little addition was the pure css loader and disabled button functionality<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/advice-generator-app/) & [repo](https://github.com/darryncodes/advice-generator-app)<br>
+
+// &nbsp;&nbsp;Tip calculator app<br>
+
+&nbsp;&nbsp;&nbsp;- A responsive bill splitter with a custom tip input, focus states and hover effects on interactive elements<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/tip-calculator-app/) & [repo](https://github.com/darryncodes/tip-calculator-app)<br>
+
+// &nbsp;&nbsp;Interactive pricing component<br>
+
+&nbsp;&nbsp;&nbsp;- A great opportunity to style a custom range slider and toggle<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/interactive-pricing-component/) & [repo](https://github.com/darryncodes/interactive-pricing-component)<br>
 
 ## 📫 Let's connect
 // &nbsp;&nbsp;Reach me at [@darryncodes](https://darryncodes.co.uk/)
