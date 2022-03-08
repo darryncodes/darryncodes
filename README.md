@@ -41,7 +41,7 @@
 
 // &nbsp;&nbsp;Advice generator app<br>
 
-&nbsp;&nbsp;&nbsp;- A fun challenge working with [Advice slip API](https://api.adviceslip.com/)<br>
+&nbsp;&nbsp;&nbsp;- A fun challenge working with the [Advice slip API](https://api.adviceslip.com/)<br>
 &nbsp;&nbsp;&nbsp;- An extra little addition was the pure css loader and disabled button functionality<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/advice-generator-app/) & [repo](https://github.com/darryncodes/advice-generator-app)<br>
 
