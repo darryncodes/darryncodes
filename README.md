@@ -11,6 +11,8 @@
 ## Tools
 
 <div align="left">
+<img style="margin: 10px" src="https://img.shields.io/badge/-Parcel-7f54b3?logo=parcel&logoColor=white&style=flat-square" alt="Parcel.js" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-npm-7f54b3?logo=&logoColor=white&style=flat-square" alt="Node Package Manager" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Git-7f54b3?logo=git&logoColor=white&style=flat-square" alt="Git" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-7f54b3?logo=github&logoColor=white&style=flat-square" alt="GitHub" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-7f54b3?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
