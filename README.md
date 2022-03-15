@@ -41,6 +41,13 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp;Calculator app<br>
+
+&nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
+&nbsp;&nbsp;&nbsp;- Taking advantage of local storage to remember the users theme preference<br>
+&nbsp;&nbsp;&nbsp;- Built with parcel.js and JS modules<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/calculator-app/) & [repo](https://github.com/darryncodes/calculator-app)<br>
+
 // &nbsp;&nbsp;Advice generator app<br>
 
 &nbsp;&nbsp;&nbsp;- A fun challenge working with the [Advice slip API](https://api.adviceslip.com/)<br>
@@ -51,11 +58,6 @@
 
 &nbsp;&nbsp;&nbsp;- A responsive bill splitter with a custom tip input, focus states and hover effects on interactive elements<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/tip-calculator-app/) & [repo](https://github.com/darryncodes/tip-calculator-app)<br>
-
-// &nbsp;&nbsp;Interactive pricing component<br>
-
-&nbsp;&nbsp;&nbsp;- A great opportunity to style a custom range slider and toggle<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/interactive-pricing-component/) & [repo](https://github.com/darryncodes/interactive-pricing-component)<br>
 
 ## 📫 Let's connect
 // &nbsp;&nbsp;Reach me at [@darryncodes](https://darryncodes.co.uk/)
