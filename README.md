@@ -6,6 +6,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/-CSS-7f54b3?logo=css3&logoColor=white&style=flat-square" alt="CSS" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Sass-7f54b3?logo=sass&logoColor=white&style=flat-square" alt="Sass" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-7f54b3?logo=javascript&logoColor=white&style=flat-square" alt="JavaScript" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-React-7f54b3?logo=react&logoColor=white&style=flat-square" alt="JavaScript" height="30" />
 </div>
 
 ## Tools
