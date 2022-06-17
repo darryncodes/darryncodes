@@ -42,6 +42,12 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp;Weather app - React<br>
+
+&nbsp;&nbsp;&nbsp;- An interesting challenge working with RapidApi's [Open weather map API](https://rapidapi.com/community/api/open-weather-map)<br>
+&nbsp;&nbsp;&nbsp;- Including error handling, error messaging and a css loader<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo](https://github.com/darryncodes/weather-app)<br>
+
 // &nbsp;&nbsp;Calculator app<br>
 
 &nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
@@ -51,7 +57,7 @@
 
 // &nbsp;&nbsp;Advice generator app<br>
 
-&nbsp;&nbsp;&nbsp;- A fun challenge working with the [Advice slip API](https://api.adviceslip.com/)<br>
+&nbsp;&nbsp;&nbsp;- A fun project working with the [Advice slip API](https://api.adviceslip.com/)<br>
 &nbsp;&nbsp;&nbsp;- An extra little addition was the pure css loader and disabled button functionality<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/advice-generator-app/) & [repo](https://github.com/darryncodes/advice-generator-app)<br>
 
