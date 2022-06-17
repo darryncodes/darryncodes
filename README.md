@@ -44,7 +44,7 @@
 
 // &nbsp;&nbsp;Weather app - React<br>
 
-&nbsp;&nbsp;&nbsp;- An interesting challenge working with RapidApi's <a href="https://rapidapi.com/community/api/open-weather-map" target="_blank">Open weather map API</a><br>
+&nbsp;&nbsp;&nbsp;- An interesting challenge working with RapidApi's [Open weather map API](https://rapidapi.com/community/api/open-weather-map)<br>
 &nbsp;&nbsp;&nbsp;- Including error handling, error messaging and a css loader<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo](https://github.com/darryncodes/weather-app)<br>
 
