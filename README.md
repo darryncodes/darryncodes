@@ -20,8 +20,8 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/-Jira-7f54b3?logo=jira&logoColor=white&style=flat-square" alt="JIRA" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Confluence-7f54b3?logo=confluence&logoColor=white&style=flat-square" alt="Confluence" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Slack-7f54b3?logo=slack&logoColor=white&style=flat-square" alt="Slack" height="30" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-Parcel-7f54b3?logo=parcel&logoColor=white&style=flat-square" alt="Parcel.js" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-npm-7f54b3?logo=&logoColor=white&style=flat-square" alt="Node Package Manager" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Parcel-7f54b3?logo=parcel&logoColor=white&style=flat-square" alt="Parcel.js" height="30" />
 </div>
 
 ## 👨‍💻 About me
