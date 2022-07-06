@@ -43,29 +43,25 @@
 
 ## 👷 Latest projects
 
-// &nbsp;&nbsp;Weather app - React<br>
+// &nbsp;&nbsp;Country info dashboard<br>
+
+&nbsp;&nbsp;&nbsp;- Integrating the [REST Countries API](https://restcountries.com/) to pull country data and display it<br>
+&nbsp;&nbsp;&nbsp;- A chance to learn React Router, levelling up my single page application skills and traverse API data<br>
+&nbsp;&nbsp;&nbsp;- Complete with a theme switcher that detects the user's operating system preference, custom search and dropdown input's and routing to detailed country info<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/rest-countries-api/) & [repo](https://github.com/darryncodes/rest-countries-api)<br>
+
+// &nbsp;&nbsp;Weather app<br>
 
 &nbsp;&nbsp;&nbsp;- An interesting challenge working with RapidApi's [Open weather map API](https://rapidapi.com/community/api/open-weather-map)<br>
 &nbsp;&nbsp;&nbsp;- Including error handling, error messaging and a css loader<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo](https://github.com/darryncodes/weather-app)<br>
 
-// &nbsp;&nbsp;Calculator app<br>
+// &nbsp;&nbsp;Interactive rating component<br>
 
-&nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
-&nbsp;&nbsp;&nbsp;- Taking advantage of local storage to remember the users theme preference<br>
-&nbsp;&nbsp;&nbsp;- Built with parcel.js and JS modules<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/calculator-app/) & [repo](https://github.com/darryncodes/calculator-app)<br>
-
-// &nbsp;&nbsp;Advice generator app<br>
-
-&nbsp;&nbsp;&nbsp;- A fun project working with the [Advice slip API](https://api.adviceslip.com/)<br>
-&nbsp;&nbsp;&nbsp;- An extra little addition was the pure css loader and disabled button functionality<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/advice-generator-app/) & [repo](https://github.com/darryncodes/advice-generator-app)<br>
-
-// &nbsp;&nbsp;Tip calculator app<br>
-
-&nbsp;&nbsp;&nbsp;- A responsive bill splitter with a custom tip input, focus states and hover effects on interactive elements<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/tip-calculator-app/) & [repo](https://github.com/darryncodes/tip-calculator-app)<br>
+&nbsp;&nbsp;&nbsp;- A responsive feedback component created with React<br>
+&nbsp;&nbsp;&nbsp;- An opportunity to practice conditional rendering, using useState hook, passing data between components with props and lifting state up<br>
+&nbsp;&nbsp;&nbsp;- Focussed on accessibility utilising semantic html, interactive elements and custom focus / hover states<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/interactive-rating-component/) & [repo](https://github.com/darryncodes/interactive-rating-component)<br>
 
 ## 📫 Let's connect
 // &nbsp;&nbsp;Reach me at [@darryncodes](https://darryncodes.co.uk/)
