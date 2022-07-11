@@ -15,6 +15,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/-Git-7f54b3?logo=git&logoColor=white&style=flat-square" alt="Git" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-7f54b3?logo=github&logoColor=white&style=flat-square" alt="GitHub" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-7f54b3?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Figma-7f54b3?logo=figma&logoColor=white&style=flat-square" alt="Figma" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-React%20Router-7f54b3?logo=reactrouter&logoColor=white&style=flat-square" alt="React Router" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Markdown-7f54b3?logo=markdown&logoColor=white&style=flat-square" alt="MArkdown" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Jira-7f54b3?logo=jira&logoColor=white&style=flat-square" alt="JIRA" height="30" />
