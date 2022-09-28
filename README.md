@@ -65,4 +65,4 @@
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/interactive-rating-component/) & [repo](https://github.com/darryncodes/interactive-rating-component)<br>
 
 ## 📫 Let's connect
-// &nbsp;&nbsp;Reach me at [@darryncodes](https://darryncodes.co.uk/)
+// &nbsp;&nbsp;Reach me at [@darryncodes](https://twitter.com/darryncodes)
