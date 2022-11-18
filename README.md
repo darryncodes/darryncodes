@@ -43,7 +43,8 @@
 
 ## 📅 2022 Goals
 
-// &nbsp;&nbsp;Learn ReactJS
+// &nbsp;&nbsp;Develop ReactJS experience<br>
+// &nbsp;&nbsp;Harness Test Driven Development
 
 ## 🔥 Fun facts
 
