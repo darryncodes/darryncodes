@@ -53,6 +53,14 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp;Shortly a responsive landing page with authentication<br>
+
+&nbsp;&nbsp;&nbsp;- Integrating the [shrt code API](https://shrtco.de/)<br>
+&nbsp;&nbsp;&nbsp;- An opportunity to gain more experience working with React hooks: useState, useEffect, useRef and useContext<br>
+&nbsp;&nbsp;&nbsp;- Extending the project to include [firebase authentication](https://firebase.google.com/) enabling the user to log in, sign up and even change authentication credentials<br>
+&nbsp;&nbsp;&nbsp;- Feature still to ship: browser storage and persisting previous short urls across sessions<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/url-shortening-api/) & [repo](https://github.com/darryncodes/url-shortening-api)<br>
+
 // &nbsp;&nbsp;Country info dashboard<br>
 
 &nbsp;&nbsp;&nbsp;- Integrating the [REST Countries API](https://restcountries.com/) to pull country data and display it<br>
@@ -66,12 +74,5 @@
 &nbsp;&nbsp;&nbsp;- Including error handling, error messaging and a css loader<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo](https://github.com/darryncodes/weather-app)<br>
 
-// &nbsp;&nbsp;Interactive rating component<br>
-
-&nbsp;&nbsp;&nbsp;- A responsive feedback component created with React<br>
-&nbsp;&nbsp;&nbsp;- An opportunity to practice conditional rendering, using useState hook, passing data between components with props and lifting state up<br>
-&nbsp;&nbsp;&nbsp;- Focussed on accessibility utilising semantic html, interactive elements and custom focus / hover states<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/interactive-rating-component/) & [repo](https://github.com/darryncodes/interactive-rating-component)<br>
-
 ## 📫 Let's connect
-// &nbsp;&nbsp;Reach me at [@darryncodes](https://twitter.com/darryncodes)
+// &nbsp;&nbsp;Reach me at [@darryncodes](https://www.darryncodes.co.uk/#/contact)
