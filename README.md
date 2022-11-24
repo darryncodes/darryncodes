@@ -55,9 +55,10 @@
 
 // &nbsp;&nbsp;Shortly a responsive landing page with authentication<br>
 
-&nbsp;&nbsp;&nbsp;- Integrating the [shrt code API](https://shrtco.de/)<br>
+&nbsp;&nbsp;&nbsp;- Integrating the [shrt code API](https://shrtco.de/) so users can create short, easier to manage links<br>
 &nbsp;&nbsp;&nbsp;- An opportunity to gain more experience working with React hooks: useState, useEffect, useRef and useContext<br>
 &nbsp;&nbsp;&nbsp;- Extending the project to include [firebase authentication](https://firebase.google.com/) enabling the user to log in, sign up and even change authentication credentials<br>
+&nbsp;&nbsp;&nbsp;- Feature still to ship: URL input validation<br>
 &nbsp;&nbsp;&nbsp;- Feature still to ship: browser storage and persisting previous short urls across sessions<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/url-shortening-api/) & [repo](https://github.com/darryncodes/url-shortening-api)<br>
 
