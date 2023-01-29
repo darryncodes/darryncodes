@@ -37,15 +37,14 @@
 ## 👨‍💻 About me
 
 // &nbsp;&nbsp;Working hard to change career<br>
-// &nbsp;&nbsp;3+ years experience working with Sitecore and other content management systems<br>
+// &nbsp;&nbsp;4+ years experience collaborating in cross-functional Agile teams with engineers, ux/ui and content design<br>
 // &nbsp;&nbsp;5+ years experience of direct, e-mail, retail and content marketing<br>
 // &nbsp;&nbsp;Qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)<br>
 // &nbsp;&nbsp;Currently honing my JavaScript skills working through [Frontend mentor challenges](https://www.frontendmentor.io/profile/darryncodes)
 
-## 📅 2022 Goals
+## 📅 2023 Goals
 
-// &nbsp;&nbsp;Develop ReactJS experience<br>
-// &nbsp;&nbsp;Harness Test Driven Development
+// &nbsp;&nbsp;Learn Typescript<br>
 
 ## 🔥 Fun facts
 
@@ -69,11 +68,12 @@
 &nbsp;&nbsp;&nbsp;- Complete with a theme switcher that detects the user's operating system preference, custom search and dropdown input's and routing to detailed country info<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/rest-countries-api/) & [repo](https://github.com/darryncodes/rest-countries-api)<br>
 
-// &nbsp;&nbsp;Weather app<br>
+// &nbsp;&nbsp;Calculator app<br>
 
-&nbsp;&nbsp;&nbsp;- An interesting challenge working with RapidApi's [Open weather map API](https://rapidapi.com/community/api/open-weather-map)<br>
-&nbsp;&nbsp;&nbsp;- Including error handling, error messaging and a css loader<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo](https://github.com/darryncodes/weather-app)<br>
+&nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
+&nbsp;&nbsp;&nbsp;- Taking advantage of local storage to remember the users theme preference<br>
+&nbsp;&nbsp;&nbsp;- Built with SCSS, JS modules and Parcel.js<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo]([https://github.com/darryncodes/weather-app](https://github.com/darryncodes/calculator-app))<br>
 
 ## 📫 Let's connect
-// &nbsp;&nbsp;Reach me at [@darryncodes](https://www.darryncodes.co.uk/#/contact)
+// &nbsp;&nbsp;Reach me at [@darryncodes](https://www.darryncodes.co.uk/contact)
