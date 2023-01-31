@@ -76,4 +76,4 @@
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/calculator-app/) & [repo](https://github.com/darryncodes/calculator-app)<br>
 
 ## 📫 Let's connect
-// &nbsp;&nbsp;Reach me at [@darryncodes](https://www.darryncodes.co.uk/contact)
+// &nbsp;&nbsp;Reach me at [darryncodes.co.uk](https://www.darryncodes.co.uk/contact)
