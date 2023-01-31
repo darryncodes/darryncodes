@@ -73,7 +73,7 @@
 &nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
 &nbsp;&nbsp;&nbsp;- Taking advantage of local storage to remember the users theme preference<br>
 &nbsp;&nbsp;&nbsp;- Built with SCSS, JS modules and Parcel.js<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/weather-app/) & [repo]([https://github.com/darryncodes/weather-app](https://github.com/darryncodes/calculator-app))<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/calculator-app/) & [repo](https://github.com/darryncodes/calculator-app)<br>
 
 ## 📫 Let's connect
 // &nbsp;&nbsp;Reach me at [@darryncodes](https://www.darryncodes.co.uk/contact)
