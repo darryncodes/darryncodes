@@ -53,6 +53,12 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp;Kanban board<br>
+
+&nbsp;&nbsp;&nbsp;- A fun project designed to practice and hone Vanilla JavaScript skills<br>
+&nbsp;&nbsp;&nbsp;- Feature still to ship: local storage and persisting data across sessions<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/kanban/) & [repo](https://github.com/darryncodes/kanban)<br>
+
 // &nbsp;&nbsp;Shortly a responsive landing page with authentication<br>
 
 &nbsp;&nbsp;&nbsp;- Integrating the [shrt code API](https://shrtco.de/) so users can create short, easier to manage links<br>
