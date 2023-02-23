@@ -55,7 +55,8 @@
 
 // &nbsp;&nbsp;Kanban board<br>
 
-&nbsp;&nbsp;&nbsp;- A fun project designed to practice and hone Vanilla JavaScript skills<br>
+&nbsp;&nbsp;&nbsp;- A fun project designed to practice and hone my Vanilla JavaScript skills<br>
+&nbsp;&nbsp;&nbsp;- Taking advantage of the HTML drag and drop API you can create, move, re-prioritise and delete tasks<br>
 &nbsp;&nbsp;&nbsp;- Feature still to ship: persist data across sessions in correct swim-lane<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/kanban/) & [repo](https://github.com/darryncodes/kanban)<br>
 
