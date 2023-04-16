@@ -53,12 +53,11 @@
 
 ## 👷 Latest projects
 
-// &nbsp;&nbsp;Kanban board<br>
+// &nbsp;&nbsp;E-commerce product page<br>
 
-&nbsp;&nbsp;&nbsp;- A fun project designed to practice and hone my Vanilla JavaScript skills<br>
-&nbsp;&nbsp;&nbsp;- Taking advantage of the HTML drag and drop API you can create, move, re-prioritise and delete tasks<br>
-&nbsp;&nbsp;&nbsp;- Feature still to ship: persist data across sessions in correct swim-lane<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/kanban/) & [repo](https://github.com/darryncodes/kanban)<br>
+&nbsp;&nbsp;&nbsp;- A beautiful product page with cart functionality <br>
+&nbsp;&nbsp;&nbsp;- Taking advantage of the React useContext hook<br>
+&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/ecommerce-product-page/) & [repo](https://github.com/darryncodes/ecommerce-product-page)<br>
 
 // &nbsp;&nbsp;Shortly a responsive landing page with authentication<br>
 
@@ -74,13 +73,6 @@
 &nbsp;&nbsp;&nbsp;- A chance to learn React Router, levelling up my single page application skills and traverse API data<br>
 &nbsp;&nbsp;&nbsp;- Complete with a theme switcher that detects the user's operating system preference, custom search and dropdown input's and routing to detailed country info<br>
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/rest-countries-api/) & [repo](https://github.com/darryncodes/rest-countries-api)<br>
-
-// &nbsp;&nbsp;Calculator app<br>
-
-&nbsp;&nbsp;&nbsp;- A responsive calculator app with three themes and custom input toggle<br>
-&nbsp;&nbsp;&nbsp;- Taking advantage of local storage to remember the users theme preference<br>
-&nbsp;&nbsp;&nbsp;- Built with SCSS, JS modules and Parcel.js<br>
-&nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/calculator-app/) & [repo](https://github.com/darryncodes/calculator-app)<br>
 
 ## 📫 Let's connect
 // &nbsp;&nbsp;Reach me at [darryn.dev](https://www.darryn.dev/contact)
