@@ -44,7 +44,7 @@
 
 ## 📅 2023 Goals
 
-// &nbsp;&nbsp;Learn Typescript<br>
+// &nbsp;&nbsp;Learn Node, Express & MongoDB<br>
 
 ## 🔥 Fun facts
 
