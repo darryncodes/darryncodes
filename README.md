@@ -57,6 +57,8 @@
 
 &nbsp;&nbsp;&nbsp;- A beautiful product page with cart functionality <br>
 &nbsp;&nbsp;&nbsp;- Taking advantage of the React useContext hook<br>
+&nbsp;&nbsp;&nbsp;- Tech stack: HTML, Tailwind CSS, React<br>
+
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/ecommerce-product-page/) & [repo](https://github.com/darryncodes/ecommerce-product-page)<br>
 
 // &nbsp;&nbsp;Shortly a responsive landing page with authentication<br>
@@ -65,6 +67,8 @@
 &nbsp;&nbsp;&nbsp;- An opportunity to gain more experience working with React hooks: useState, useEffect, useRef and useContext<br>
 &nbsp;&nbsp;&nbsp;- Extending the project to include [firebase authentication](https://firebase.google.com/) enabling the user to log in, sign up and even change authentication credentials<br>
 &nbsp;&nbsp;&nbsp;- Feature still to ship: browser storage and persisting previous short urls across sessions<br>
+&nbsp;&nbsp;&nbsp;- Tech stack: HTML, SCSS modules, React, React Router, React Bootstrap<br>
+
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/url-shortening-api/) & [repo](https://github.com/darryncodes/url-shortening-api)<br>
 
 // &nbsp;&nbsp;Country info dashboard<br>
@@ -72,6 +76,8 @@
 &nbsp;&nbsp;&nbsp;- Integrating the [REST Countries API](https://restcountries.com/) to pull country data and display it<br>
 &nbsp;&nbsp;&nbsp;- A chance to learn React Router, levelling up my single page application skills and traverse API data<br>
 &nbsp;&nbsp;&nbsp;- Complete with a theme switcher that detects the user's operating system preference, custom search and dropdown input's and routing to detailed country info<br>
+&nbsp;&nbsp;&nbsp;- Tech stack: HTML, CSS modules, React, React Router, React Bootstrap<br>
+
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/rest-countries-api/) & [repo](https://github.com/darryncodes/rest-countries-api)<br>
 
 ## 📫 Let's connect
