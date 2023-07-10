@@ -48,7 +48,7 @@
 
 ## 📅 2023 Goals
 
-// &nbsp;&nbsp;Learn Node, Express & MongoDB<br>
+// &nbsp;&nbsp;Learn Node.js & Next.js<br>
 
 ## 🔥 Fun facts
 
