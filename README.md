@@ -57,6 +57,10 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp;An FAQ accordion - built to learn more about accessibility: [Live site](https://darryncodes.github.io/accessible-faq-accordion/) & [repo](https://github.com/darryncodes/accessible-faq-accordion)<br>
+
+## 🏗️ Bigger projects
+
 // &nbsp;&nbsp;E-commerce product page<br>
 
 &nbsp;&nbsp;&nbsp;- A beautiful product page with cart functionality <br>
