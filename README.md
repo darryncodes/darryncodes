@@ -41,7 +41,7 @@
 ## 👨‍💻 About me
 
 // &nbsp;&nbsp;Working hard to change career<br>
-// &nbsp;&nbsp;4+ years experience collaborating in cross-functional Agile teams with engineers, ux/ui and content design<br>
+// &nbsp;&nbsp;5+ years experience collaborating in cross-functional Agile teams with engineers, ux/ui and content design<br>
 // &nbsp;&nbsp;5+ years experience of direct, e-mail, retail and content marketing<br>
 // &nbsp;&nbsp;Qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)<br>
 // &nbsp;&nbsp;Currently honing my JavaScript skills working through [Frontend mentor challenges](https://www.frontendmentor.io/profile/darryncodes)
