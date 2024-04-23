@@ -57,6 +57,7 @@
 
 ## 👷 Latest projects
 
+// &nbsp;&nbsp; A 'Bookmark manager' landing page - great practice utilising Reacts composability and resuability: [Live site](https://darryncodes.github.io/bookmark-landing-page/) & [repo](https://github.com/darryncodes/bookmark-landing-page)<br>
 // &nbsp;&nbsp;An age calculator - built to try out styled-components: [Live site](https://darryncodes.github.io/age-calculator-app/) & [repo](https://github.com/darryncodes/age-calculator-app)<br>
 // &nbsp;&nbsp;An FAQ accordion - built to learn more about accessibility: [Live site](https://darryncodes.github.io/accessible-faq-accordion/) & [repo](https://github.com/darryncodes/accessible-faq-accordion)<br>
 
