@@ -47,7 +47,7 @@
 // &nbsp;&nbsp;Qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)<br>
 // &nbsp;&nbsp;Currently honing my JavaScript skills working through [Frontend mentor challenges](https://www.frontendmentor.io/profile/darryncodes)
 
-## 📅 2024 Goals
+## 📅 2025 Goals
 
 // &nbsp;&nbsp;Learn Node.js & Next.js<br>
 
