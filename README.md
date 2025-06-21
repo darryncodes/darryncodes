@@ -40,7 +40,6 @@
 
 ## 👨‍💻 About me
 
-// &nbsp;&nbsp;Working hard to change career<br>
 // &nbsp;&nbsp;Recently certified UI professional with the [UX Design Institute](https://www.uxdesigninstitute.com/)<br>
 // &nbsp;&nbsp;5+ years experience collaborating in cross-functional Agile teams with engineers, ux/ui and content design<br>
 // &nbsp;&nbsp;5+ years experience of direct, e-mail, retail and content marketing<br>
