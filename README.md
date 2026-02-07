@@ -90,4 +90,4 @@
 &nbsp;&nbsp;&nbsp;- [Live site](https://darryncodes.github.io/rest-countries-api/) & [repo](https://github.com/darryncodes/rest-countries-api)<br>
 
 ## 📫 Let's connect
-// &nbsp;&nbsp;Reach me at [darryn.dev](https://www.darryn.dev/contact)
+// &nbsp;&nbsp;Reach me at [hi@darryn.dev](mailto:hi@darryn.dev)
